@@ -1,5 +1,5 @@
 ---
-title: "CHR2024 Programme"
+title: "CHR[YEAR] Programme"
 layouttype: "single" 
 draft: true
 ---

@@ -3,6 +3,14 @@ title: "Past Events"
 date: 2021-02-19T16:05:25+01:00
 ---
 
+### CHR2024
+[CHR2024](https://2024.computational-humanities-research.org/) was a three-day
+conference held on December 4 to 6, 2024. The program committee and organizers
+accepted 49 papers, which have been published with CEUR-WS:
+https://ceur-ws.org/Vol-3834/. See
+https://2024.computational-humanities-research.org/ for more information about
+CHR2024.
+
 ### CHR2023
 [CHR2023](https://2023.computational-humanities-research.org/) was a three-day
 conference held on December 6 to 8, 2023. The program committee and organizers
